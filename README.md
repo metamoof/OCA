@@ -1,6 +1,6 @@
 # OCA
 
-## This is the default branch
+## This is the 13.0 branch
 
 All the OCA Modules in one place, except for Backports, checked out as submodules.
 

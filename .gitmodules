@@ -1,477 +1,636 @@
 [submodule "account-analytic"]
 	path = account-analytic
 	url = https://github.com/OCA/account-analytic
+	branch = 13.0
 [submodule "account-budgeting"]
 	path = account-budgeting
 	url = https://github.com/OCA/account-budgeting.git
+	branch = 13.0
 [submodule "account-closing"]
 	path = account-closing
 	url = https://github.com/OCA/account-closing.git
+	branch = 13.0
 [submodule "account-consolidation"]
 	path = account-consolidation
 	url = https://github.com/OCA/account-consolidation.git
+	branch = 13.0
 [submodule "account-financial-tools"]
 	path = account-financial-tools
 	url = https://github.com/OCA/account-financial-tools.git
+	branch = 13.0
 [submodule "account-financial-reporting"]
 	path = account-financial-reporting
 	url = https://github.com/OCA/account-financial-reporting.git
+	branch = 13.0
 [submodule "account-invoice-reporting"]
 	path = account-invoice-reporting
 	url = https://github.com/OCA/account-invoice-reporting.git
+	branch = 13.0
 [submodule "account-invoicing"]
 	path = account-invoicing
 	url = https://github.com/OCA/account-invoicing.git
+	branch = 13.0
 [submodule "account-fiscal-rule"]
 	path = account-fiscal-rule
 	url = https://github.com/OCA/account-fiscal-rule.git
+	branch = 13.0
 [submodule "operating-unit"]
 	path = operating-unit
 	url = https://github.com/OCA/operating-unit.git
+	branch = 13.0
 [submodule "intrastat"]
 	path = intrastat
 	url = https://github.com/OCA/intrastat.git
+	branch = 13.0
 [submodule "mis-builder"]
 	path = mis-builder
 	url = https://github.com/OCA/mis-builder.git
+	branch = 13.0
 [submodule "currency"]
 	path = currency
 	url = https://github.com/OCA/currency.git
+	branch = 13.0
 [submodule "credit-control"]
 	path = credit-control
 	url = https://github.com/OCA/credit-control.git
+	branch = 13.0
 [submodule "data-protection"]
 	path = data-protection
 	url = https://github.com/OCA/data-protection.git
+	branch = 13.0
 [submodule "apps-store"]
 	path = apps-store
 	url = https://github.com/OCA/apps-store.git
+	branch = 13.0
 [submodule "bank-payment"]
 	path = bank-payment
 	url = https://github.com/OCA/bank-payment.git
+	branch = 13.0
 [submodule "account-reconcile"]
 	path = account-reconcile
 	url = https://github.com/OCA/account-reconcile.git
+	branch = 13.0
 [submodule "bank-statement-import"]
 	path = bank-statement-import
 	url = https://github.com/OCA/bank-statement-import.git
+	branch = 13.0
 [submodule "account-payment"]
 	path = account-payment
 	url = https://github.com/OCA/account-payment.git
+	branch = 13.0
 [submodule "maintainer-tools"]
 	path = maintainer-tools
 	url = https://github.com/OCA/maintainer-tools.git
+	branch = 13.0
 [submodule "maintainer-quality-tools"]
 	path = maintainer-quality-tools
 	url = https://github.com/OCA/maintainer-quality-tools.git
+	branch = 13.0
 [submodule "runbot-addons"]
 	path = runbot-addons
 	url = https://github.com/OCA/runbot-addons.git
+	branch = 13.0
 [submodule "connector"]
 	path = connector
 	url = https://github.com/OCA/connector.git
+	branch = 13.0
 [submodule "connector-ecommerce"]
 	path = connector-ecommerce
 	url = https://github.com/OCA/connector-ecommerce.git
+	branch = 13.0
 [submodule "queue"]
 	path = queue
 	url = https://github.com/OCA/queue.git
+	branch = 13.0
 [submodule "connector-accountedge"]
 	path = connector-accountedge
 	url = https://github.com/OCA/connector-accountedge.git
+	branch = 13.0
 [submodule "connector-cmis"]
 	path = connector-cmis
 	url = https://github.com/OCA/connector-cmis.git
+	branch = 13.0
 [submodule "connector-infor"]
 	path = connector-infor
 	url = https://github.com/OCA/connector-infor.git
+	branch = 13.0
 [submodule "connector-lengow"]
 	path = connector-lengow
 	url = https://github.com/OCA/connector-lengow.git
+	branch = 13.0
 [submodule "connector-lims"]
 	path = connector-lims
 	url = https://github.com/OCA/connector-lims.git
+	branch = 13.0
 [submodule "connector-magento"]
 	path = connector-magento
 	url = https://github.com/OCA/connector-magento.git
+	branch = 13.0
 [submodule "connector-prestashop"]
 	path = connector-prestashop
 	url = https://github.com/OCA/connector-prestashop.git
+	branch = 13.0
 [submodule "connector-sage"]
 	path = connector-sage
 	url = https://github.com/OCA/connector-sage.git
+	branch = 13.0
 [submodule "connector-salesforce"]
 	path = connector-salesforce
 	url = https://github.com/OCA/connector-salesforce.git
+	branch = 13.0
 [submodule "connector-spscommerce"]
 	path = connector-spscommerce
 	url = https://github.com/OCA/connector-spscommerce.git
+	branch = 13.0
 [submodule "connector-woocommerce"]
 	path = connector-woocommerce
 	url = https://github.com/OCA/connector-woocommerce.git
+	branch = 13.0
 [submodule "sale-workflow"]
 	path = sale-workflow
 	url = https://github.com/OCA/sale-workflow.git
+	branch = 13.0
 [submodule "crm"]
 	path = crm
 	url = https://github.com/OCA/crm.git
+	branch = 13.0
 [submodule "partner-contact"]
 	path = partner-contact
 	url = https://github.com/OCA/partner-contact.git
+	branch = 13.0
 [submodule "sale-financial"]
 	path = sale-financial
 	url = https://github.com/OCA/sale-financial.git
+	branch = 13.0
 [submodule "sale-reporting"]
 	path = sale-reporting
 	url = https://github.com/OCA/sale-reporting.git
+	branch = 13.0
 [submodule "commission"]
 	path = commission
 	url = https://github.com/OCA/commission.git
+	branch = 13.0
 [submodule "event"]
 	path = event
 	url = https://github.com/OCA/event.git
+	branch = 13.0
 [submodule "survey"]
 	path = survey
 	url = https://github.com/OCA/survey.git
+	branch = 13.0
 [submodule "knowledge"]
 	path = knowledge
 	url = https://github.com/OCA/knowledge.git
+	branch = 13.0
 [submodule "edi"]
 	path = edi
 	url = https://github.com/OCA/edi.git
+	branch = 13.0
 [submodule "field-service"]
 	path = field-service
 	url = https://github.com/OCA/field-service.git
+	branch = 13.0
 [submodule "margin-analysis"]
 	path = margin-analysis
 	url = https://github.com/OCA/margin-analysis.git
+	branch = 13.0
 [submodule "infrastructure-dns"]
 	path = infrastructure-dns
 	url = https://github.com/OCA/infrastructure-dns.git
+	branch = 13.0
 [submodule "geospatial"]
 	path = geospatial
 	url = https://github.com/OCA/geospatial.git
+	branch = 13.0
 [submodule "timesheet"]
 	path = timesheet
 	url = https://github.com/OCA/timesheet.git
+	branch = 13.0
 [submodule "hr"]
 	path = hr
 	url = https://github.com/OCA/hr.git
+	branch = 13.0
 [submodule "hr-attendance"]
 	path = hr-attendance
 	url = https://github.com/OCA/hr-attendance.git
+	branch = 13.0
 [submodule "hr-expense"]
 	path = hr-expense
 	url = https://github.com/OCA/hr-expense.git
+	branch = 13.0
 [submodule "hr-holidays"]
 	path = hr-holidays
 	url = https://github.com/OCA/hr-holidays.git
+	branch = 13.0
 [submodule "department"]
 	path = department
 	url = https://github.com/OCA/department.git
+	branch = 13.0
 [submodule "connector-odoo2odoo"]
 	path = connector-odoo2odoo
 	url = https://github.com/OCA/connector-odoo2odoo.git
+	branch = 13.0
 [submodule "multi-company"]
 	path = multi-company
 	url = https://github.com/OCA/multi-company.git
+	branch = 13.0
 [submodule "l10n-argentina"]
 	path = l10n-argentina
 	url = https://github.com/OCA/l10n-argentina.git
+	branch = 13.0
 [submodule "l10n-austria"]
 	path = l10n-austria
 	url = https://github.com/OCA/l10n-austria.git
+	branch = 13.0
 [submodule "l10n-belarus"]
 	path = l10n-belarus
 	url = https://github.com/OCA/l10n-belarus.git
+	branch = 13.0
 [submodule "l10n-belgium"]
 	path = l10n-belgium
 	url = https://github.com/OCA/l10n-belgium.git
+	branch = 13.0
 [submodule "l10n-brazil"]
 	path = l10n-brazil
 	url = https://github.com/OCA/l10n-brazil.git
+	branch = 13.0
 [submodule "l10n-canada"]
 	path = l10n-canada
 	url = https://github.com/OCA/l10n-canada.git
+	branch = 13.0
 [submodule "l10n-chile"]
 	path = l10n-chile
 	url = https://github.com/OCA/l10n-chile.git
+	branch = 13.0
 [submodule "l10n-china"]
 	path = l10n-china
 	url = https://github.com/OCA/l10n-china.git
+	branch = 13.0
 [submodule "l10n-colombia"]
 	path = l10n-colombia
 	url = https://github.com/OCA/l10n-colombia.git
+	branch = 13.0
 [submodule "l10n-costa-rica"]
 	path = l10n-costa-rica
 	url = https://github.com/OCA/l10n-costa-rica.git
+	branch = 13.0
 [submodule "l10n-croatia"]
 	path = l10n-croatia
 	url = https://github.com/OCA/l10n-croatia.git
+	branch = 13.0
 [submodule "l10n-ecuador"]
 	path = l10n-ecuador
 	url = https://github.com/OCA/l10n-ecuador.git
+	branch = 13.0
 [submodule "l10n-estonia"]
 	path = l10n-estonia
 	url = https://github.com/OCA/l10n-estonia.git
+	branch = 13.0
 [submodule "l10n-ethiopia"]
 	path = l10n-ethiopia
 	url = https://github.com/OCA/l10n-ethiopia.git
+	branch = 13.0
 [submodule "l10n-finland"]
 	path = l10n-finland
 	url = https://github.com/OCA/l10n-finland.git
+	branch = 13.0
 [submodule "l10n-france"]
 	path = l10n-france
 	url = https://github.com/OCA/l10n-france.git
+	branch = 13.0
 [submodule "l10n-germany"]
 	path = l10n-germany
 	url = https://github.com/OCA/l10n-germany.git
+	branch = 13.0
 [submodule "l10n-greece"]
 	path = l10n-greece
 	url = https://github.com/OCA/l10n-greece.git
+	branch = 13.0
 [submodule "l10n-india"]
 	path = l10n-india
 	url = https://github.com/OCA/l10n-india.git
+	branch = 13.0
 [submodule "l10n-indonesia"]
 	path = l10n-indonesia
 	url = https://github.com/OCA/l10n-indonesia.git
+	branch = 13.0
 [submodule "l10n-iran"]
 	path = l10n-iran
 	url = https://github.com/OCA/l10n-iran.git
+	branch = 13.0
 [submodule "l10n-ireland"]
 	path = l10n-ireland
 	url = https://github.com/OCA/l10n-ireland.git
+	branch = 13.0
 [submodule "l10n-japan"]
 	path = l10n-japan
 	url = https://github.com/OCA/l10n-japan.git
+	branch = 13.0
 [submodule "l10n-luxemburg"]
 	path = l10n-luxemburg
 	url = https://github.com/OCA/l10n-luxemburg.git
+	branch = 13.0
 [submodule "l10n-macedonia"]
 	path = l10n-macedonia
 	url = https://github.com/OCA/l10n-macedonia.git
+	branch = 13.0
 [submodule "l10n-mexico"]
 	path = l10n-mexico
 	url = https://github.com/OCA/l10n-mexico.git
+	branch = 13.0
 [submodule "l10n-morocco"]
 	path = l10n-morocco
 	url = https://github.com/OCA/l10n-morocco.git
+	branch = 13.0
 [submodule "l10n-netherlands"]
 	path = l10n-netherlands
 	url = https://github.com/OCA/l10n-netherlands.git
+	branch = 13.0
 [submodule "l10n-norway"]
 	path = l10n-norway
 	url = https://github.com/OCA/l10n-norway.git
+	branch = 13.0
 [submodule "l10n-peru"]
 	path = l10n-peru
 	url = https://github.com/OCA/l10n-peru.git
+	branch = 13.0
 [submodule "l10n-poland"]
 	path = l10n-poland
 	url = https://github.com/OCA/l10n-poland.git
+	branch = 13.0
 [submodule "l10n-portugal"]
 	path = l10n-portugal
 	url = https://github.com/OCA/l10n-portugal.git
+	branch = 13.0
 [submodule "l10n-romania"]
 	path = l10n-romania
 	url = https://github.com/OCA/l10n-romania.git
+	branch = 13.0
 [submodule "l10n-slovenia"]
 	path = l10n-slovenia
 	url = https://github.com/OCA/l10n-slovenia.git
+	branch = 13.0
 [submodule "l10n-spain"]
 	path = l10n-spain
 	url = https://github.com/OCA/l10n-spain.git
+	branch = 13.0
 [submodule "l10n-switzerland"]
 	path = l10n-switzerland
 	url = https://github.com/OCA/l10n-switzerland.git
+	branch = 13.0
 [submodule "l10n-taiwan"]
 	path = l10n-taiwan
 	url = https://github.com/OCA/l10n-taiwan.git
+	branch = 13.0
 [submodule "l10n-thailand"]
 	path = l10n-thailand
 	url = https://github.com/OCA/l10n-thailand.git
+	branch = 13.0
 [submodule "l10n-turkey"]
 	path = l10n-turkey
 	url = https://github.com/OCA/l10n-turkey.git
+	branch = 13.0
 [submodule "l10n-united-kingdom"]
 	path = l10n-united-kingdom
 	url = https://github.com/OCA/l10n-united-kingdom.git
+	branch = 13.0
 [submodule "l10n-uruguay"]
 	path = l10n-uruguay
 	url = https://github.com/OCA/l10n-uruguay.git
+	branch = 13.0
 [submodule "l10n-usa"]
 	path = l10n-usa
 	url = https://github.com/OCA/l10n-usa.git
+	branch = 13.0
 [submodule "l10n-venezuela"]
 	path = l10n-venezuela
 	url = https://github.com/OCA/l10n-venezuela.git
+	branch = 13.0
 [submodule "l10n-vietnam"]
 	path = l10n-vietnam
 	url = https://github.com/OCA/l10n-vietnam.git
+	branch = 13.0
 [submodule "carrier-delivery"]
 	path = carrier-delivery
 	url = https://github.com/OCA/carrier-delivery.git
+	branch = 13.0
 [submodule "stock-logistics-barcode"]
 	path = stock-logistics-barcode
 	url = https://github.com/OCA/stock-logistics-barcode.git
+	branch = 13.0
 [submodule "stock-logistics-workflow"]
 	path = stock-logistics-workflow
 	url = https://github.com/OCA/stock-logistics-workflow.git
+	branch = 13.0
 [submodule "stock-logistics-tracking"]
 	path = stock-logistics-tracking
 	url = https://github.com/OCA/stock-logistics-tracking.git
+	branch = 13.0
 [submodule "stock-logistics-warehouse"]
 	path = stock-logistics-warehouse
 	url = https://github.com/OCA/stock-logistics-warehouse.git
+	branch = 13.0
 [submodule "stock-logistics-reporting"]
 	path = stock-logistics-reporting
 	url = https://github.com/OCA/stock-logistics-reporting.git
+	branch = 13.0
 [submodule "rma"]
 	path = rma
 	url = https://github.com/OCA/rma.git
+	branch = 13.0
 [submodule "ddmrp"]
 	path = ddmrp
 	url = https://github.com/OCA/ddmrp.git
+	branch = 13.0
 [submodule "wms"]
 	path = wms
 	url = https://github.com/OCA/wms.git
+	branch = 13.0
 [submodule "manufacture"]
 	path = manufacture
 	url = https://github.com/OCA/manufacture.git
+	branch = 13.0
 [submodule "manufacture-reporting"]
 	path = manufacture-reporting
 	url = https://github.com/OCA/manufacture-reporting.git
+	branch = 13.0
 [submodule "management-system"]
 	path = management-system
 	url = https://github.com/OCA/management-system.git
+	branch = 13.0
 [submodule "purchase-workflow"]
 	path = purchase-workflow
 	url = https://github.com/OCA/purchase-workflow.git
+	branch = 13.0
 [submodule "purchase-reporting"]
 	path = purchase-reporting
 	url = https://github.com/OCA/purchase-reporting.git
+	branch = 13.0
 [submodule "product-attribute"]
 	path = product-attribute
 	url = https://github.com/OCA/product-attribute.git
+	branch = 13.0
 [submodule "product-kitting"]
 	path = product-kitting
 	url = https://github.com/OCA/product-kitting.git
+	branch = 13.0
 [submodule "product-variant"]
 	path = product-variant
 	url = https://github.com/OCA/product-variant.git
+	branch = 13.0
 [submodule "product-pack"]
 	path = product-pack
 	url = https://github.com/OCA/product-pack.git
+	branch = 13.0
 [submodule "project-reporting"]
 	path = project-reporting
 	url = https://github.com/OCA/project-reporting.git
+	branch = 13.0
 [submodule "project-service"]
 	path = project-service
 	url = https://github.com/OCA/project-service.git
+	branch = 13.0
 [submodule "project-agile"]
 	path = project-agile
 	url = https://github.com/OCA/project-agile.git
+	branch = 13.0
 [submodule "contract"]
 	path = contract
 	url = https://github.com/OCA/contract.git
+	branch = 13.0
 [submodule "program"]
 	path = program
 	url = https://github.com/OCA/program.git
+	branch = 13.0
 [submodule "business-requirement"]
 	path = business-requirement
 	url = https://github.com/OCA/business-requirement.git
+	branch = 13.0
 [submodule "connector-redmine"]
 	path = connector-redmine
 	url = https://github.com/OCA/connector-redmine.git
+	branch = 13.0
 [submodule "connector-jira"]
 	path = connector-jira
 	url = https://github.com/OCA/connector-jira.git
+	branch = 13.0
 [submodule "social"]
 	path = social
 	url = https://github.com/OCA/social.git
+	branch = 13.0
 [submodule "storage"]
 	path = storage
 	url = https://github.com/OCA/storage.git
+	branch = 13.0
 [submodule "search-engine"]
 	path = search-engine
 	url = https://github.com/OCA/search-engine.git
+	branch = 13.0
 [submodule "reporting-engine"]
 	path = reporting-engine
 	url = https://github.com/OCA/reporting-engine.git
+	branch = 13.0
 [submodule "report-print-send"]
 	path = report-print-send
 	url = https://github.com/OCA/report-print-send.git
+	branch = 13.0
 [submodule "webkit-tools"]
 	path = webkit-tools
 	url = https://github.com/OCA/webkit-tools.git
+	branch = 13.0
 [submodule "server-tools"]
 	path = server-tools
 	url = https://github.com/OCA/server-tools.git
+	branch = 13.0
 [submodule "server-auth"]
 	path = server-auth
 	url = https://github.com/OCA/server-auth.git
+	branch = 13.0
 [submodule "server-env"]
 	path = server-env
 	url = https://github.com/OCA/server-env.git
+	branch = 13.0
 [submodule "server-backend"]
 	path = server-backend
 	url = https://github.com/OCA/server-backend.git
+	branch = 13.0
 [submodule "server-brand"]
 	path = server-brand
 	url = https://github.com/OCA/server-brand.git
+	branch = 13.0
 [submodule "server-ux"]
 	path = server-ux
 	url = https://github.com/OCA/server-ux.git
+	branch = 13.0
 [submodule "community-data-files"]
 	path = community-data-files
 	url = https://github.com/OCA/community-data-files.git
+	branch = 13.0
 [submodule "webhook"]
 	path = webhook
 	url = https://github.com/OCA/webhook.git
+	branch = 13.0
 [submodule "interface-github"]
 	path = interface-github
 	url = https://github.com/OCA/interface-github.git
+	branch = 13.0
 [submodule "iot"]
 	path = iot
 	url = https://github.com/OCA/iot.git
+	branch = 13.0
 [submodule "rest-framework"]
 	path = rest-framework
 	url = https://github.com/OCA/rest-framework.git
+	branch = 13.0
 [submodule "vertical-association"]
 	path = vertical-association
 	url = https://github.com/OCA/vertical-association.git
+	branch = 13.0
 [submodule "vertical-hotel"]
 	path = vertical-hotel
 	url = https://github.com/OCA/vertical-hotel.git
+	branch = 13.0
 [submodule "vertical-isp"]
 	path = vertical-isp
 	url = https://github.com/OCA/vertical-isp.git
+	branch = 13.0
 [submodule "vertical-edition"]
 	path = vertical-edition
 	url = https://github.com/OCA/vertical-edition.git
+	branch = 13.0
 [submodule "vertical-education"]
 	path = vertical-education
 	url = https://github.com/OCA/vertical-education.git
+	branch = 13.0
 [submodule "vertical-medical"]
 	path = vertical-medical
 	url = https://github.com/OCA/vertical-medical.git
+	branch = 13.0
 [submodule "vertical-ngo"]
 	path = vertical-ngo
 	url = https://github.com/OCA/vertical-ngo.git
+	branch = 13.0
 [submodule "vertical-construction"]
 	path = vertical-construction
 	url = https://github.com/OCA/vertical-construction.git
+	branch = 13.0
 [submodule "vertical-realstate"]
 	path = vertical-realstate
 	url = https://github.com/OCA/vertical-realstate.git
+	branch = 13.0
 [submodule "vertical-travel"]
 	path = vertical-travel
 	url = https://github.com/OCA/vertical-travel.git
+	branch = 13.0
 [submodule "web"]
 	path = web
 	url = https://github.com/OCA/web.git
+	branch = 13.0
 [submodule "website"]
 	path = website
 	url = https://github.com/OCA/website.git
+	branch = 13.0
 [submodule "website-cms"]
 	path = website-cms
 	url = https://github.com/OCA/website-cms.git
+	branch = 13.0
